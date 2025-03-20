@@ -2,31 +2,30 @@ Personalized Book Recommender
 
 📌 Project Overview
 
-The primary objective of this project is to develop a book recommendation system based on historical data to provide personalized book suggestions. The system aims to enhance the reading experience of users by recommending books that align closely with their preferences and interests.
+The primary objective of this project is to develop a book recommendation system based on historical data to provide personalized book suggestions. It aims to enhance the reading experiences of users by recommending books that align closely with their preferences and interests.
 
-🚀 Technologies Used
+Project Link
 
-Python – Data processing and model development
-
-Jupyter Notebook – Data analysis and experimentation
-
-Pandas – Data manipulation and preprocessing
-
-Cosine Similarity – To find the similarity between books
-
-Pickle – Model serialization for efficient deployment
-
-Streamlit – To create an interactive web application
+You can try the live application here: https://immaraju-personalized-book-recommender-app-foexfr.streamlit.app/ in readme
 
 📊 Dataset
 
-The book dataset used in this project is obtained from Kaggle. It contains information such as:
+The project utilizes a book dataset obtained from Kaggle, which contains information about books, user ratings, and interactions.
 
-Book titles, authors, and genres
+🚀 Technologies Used
 
-User ratings and interactions
+Python: Data processing and model building
 
-Book popularity metrics
+Jupyter Notebook: Data analysis and model training
+
+Pandas: Data manipulation and processing
+
+Cosine Similarity: Used to measure book similarity
+
+Pickle: Saves the trained recommendation model
+
+Streamlit: Develops an interactive web application
+
 
 🛠️ Project Workflow
 
@@ -42,16 +41,17 @@ Deployment: The model and UI are integrated for seamless user experience.
 
 🌟 Features
 
-✅ Personalized book recommendations based on user preferences.✅ Interactive Streamlit web app for user-friendly book selection.✅ Efficient recommendation using cosine similarity.✅ Lightweight and easy to deploy.
-
-🎯 How to Run the Project
-
-Clone the repository:
-
-Install dependencies:
-
-Run the Streamlit application:
+✅ Personalized book recommendations based on user preferences.
+✅ Interactive Streamlit web app for user-friendly book selection.
+✅ Efficient recommendation using cosine similarity.
+✅ Lightweight and easy to deploy.
 
 📌 Future Enhancements
 
-🔹 Incorporate collaborative filtering for better recommendations.🔹 Improve the UI/UX of the web app.🔹 Deploy the project on cloud platforms for wider accessibility.
+🔹 Incorporate collaborative filtering for better recommendations.
+🔹 Improve the UI/UX of the web app.
+🔹 Deploy the project on cloud platforms for wider accessibility.
+
+
+
+
